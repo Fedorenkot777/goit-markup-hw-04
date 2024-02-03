@@ -388,7 +388,9 @@ img {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.02em; 
+    letter-spacing: 0.02em;
+    margin-bottom: 16px;
+    font-family: Roboto; 
 }
 
 .descr {
@@ -449,3 +451,15 @@ img {
 .footer-link:hover,   .footer-link:focus {
    background-color: #31d0aa;
  }
+
+ .footer-icon {
+   font-family: Roboto;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 1.5;
+   letter-spacing: 0.02;
+   color: #ffffff;
+   display: flex;
+   margin-bottom: 16px;
+   }
