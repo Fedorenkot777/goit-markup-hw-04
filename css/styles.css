@@ -405,7 +405,7 @@ img {
    letter-spacing: 0.02em;
 }
 
-.team-list-li:hover .overlay-p {
+.port-live-p:hover .port-live-p {
    transform: translateY(0%);
 }
 
