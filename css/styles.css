@@ -70,9 +70,12 @@ img {
    color: #404BBF;
   position: relative;
 }
-
+.logo-list.current{
+   color: #404BBF;
+   position: relative;
+}
 .logo-list.current::after{
-   content: '';
+  content: '';
   width: 100%;
   left: 0;
   bottom: -1px;
@@ -303,6 +306,16 @@ img {
 .team-icon-li{
    width: 40px;
   height: 40px;
+}
+
+.team-icon-ul{
+   display: flex;
+   justify-content: center;
+   gap: 24px;
+}
+
+.team-soc-link:hover, .team-soc-link:focus {
+   background-color: #404BBF;
 }
 
 /* Portfolio */
