@@ -70,11 +70,11 @@ img {
    color: #404BBF;
   position: relative;
 }
-.logo-list.current{
+.logo-list.current {
    color: #404BBF;
    position: relative;
 }
-.logo-list.current::after{
+.logo-list.current::after {
   content: '';
   width: 100%;
   left: 0;
@@ -82,10 +82,10 @@ img {
   height: 4px;
   background-color: #404bbf;
   border-radius: 2px;
-  position: relative;;
+  position: relative;
   display: block;
   position: absolute;
-  color: #404bbf;
+  color: #404BBF;
 }
 
  .logo-list {
@@ -400,7 +400,7 @@ img {
 }
 
 .team-list-li:hover .overlay-p {
-   transform: translateY(0);
+   transform: translateY(0%);
 }
 
 /*  Footer */
