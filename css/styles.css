@@ -30,17 +30,18 @@ img {
   border-bottom: 1px solid #E7E9FC;
   background: #FFF;
   box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 2px 1px 0px rgba(46, 47, 66, 0.08);
+  }
 
-}
   .logo-container{
    display: flex;
    align-items: center; 
-}
-.logo-nav{
+ }
+
+  .logo-nav{
    display: flex;
    align-items: center;
    background-color: #FFFFFF;
-}
+ }
   .logo {
      color: #4D5AE5;
      font-size: 18px;
@@ -70,10 +71,12 @@ img {
    color: #404BBF;
   position: relative;
 }
+
 .logo-list.current {
    color: #404BBF;
    position: relative;
 }
+
 .logo-list.current::after {
   content: '';
   width: 100%;
