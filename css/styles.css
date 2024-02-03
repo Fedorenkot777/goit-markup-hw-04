@@ -412,6 +412,15 @@ img {
    height: 312px;
 }
 
+.footer-container{
+  align-items: baseline;
+  display: flex;
+}
+
+.footer-logo{
+   margin-right: 120px;
+ }
+
  .footer-accent {
    display: inline-block;
    margin-bottom: 16px;
