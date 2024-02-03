@@ -82,8 +82,10 @@ img {
   height: 4px;
   background-color: #404bbf;
   border-radius: 2px;
-  position: absolute;
+  position: relative;;
   display: block;
+  position: absolute;
+  color: #404bbf;
 }
 
  .logo-list {
