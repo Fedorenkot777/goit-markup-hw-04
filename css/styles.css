@@ -328,6 +328,7 @@ img {
 .portfolio {
     padding: 120px 0;
 }
+
 .team-headd{
   margin-bottom: 72px;
   font-size: 36px;
@@ -370,9 +371,9 @@ img {
   background-color: #4d5ae5;
   padding: 40px 32px;
   top: 0;
-  left: 0;
   width: 100%;
   height: 100%;
+  margin: 0;
   position: absolute;
   font-size: 16px;
   font-style: normal;
@@ -405,7 +406,7 @@ img {
    letter-spacing: 0.02em;
 }
 
-.port-live-p:hover .port-live-p {
+.team-list-li:hover .port-live-p {
    transform: translateY(0%);
 }
 
