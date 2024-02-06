@@ -140,7 +140,7 @@ img {
      linear-gradient(rgba(46, 47, 66, 0.7),
      rgba(46,47,66,0.7 )
      ),
-     url(../images/hero.jpg);
+     url(../images/people-office.jpg);
      height: 600px;
      max-width: 1440px;
      margin-left: auto;
@@ -442,6 +442,7 @@ img {
    font-weight: 700;
    line-height: 1.17; 
    letter-spacing: 0.03em;
+   text-transform: uppercase;
    text-decoration: none;
    font-family: "Raleway", sans-serif;
 }
